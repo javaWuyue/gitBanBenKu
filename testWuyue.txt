@@ -8,4 +8,4 @@ tian jia ce shi rizhi de han yi
 好好
 tui推送到远端有没有成功哦 
 切换到dev分支上做的修改  
-测试是否解决冲突
+测试是否解决冲突 新的合并方式
