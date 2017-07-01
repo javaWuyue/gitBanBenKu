@@ -33,7 +33,7 @@ public class CustomerController {
 	public String list(QueryVo vo, Model model) throws Exception{
 		//客户来源下拉
 		List<BaseDict> sourceList = customerService.findDictByCode(source);
-		
+		System.out.println();
 		//客户行业
 		List<BaseDict> industryList = customerService.findDictByCode(industry);
 		//客户级别
