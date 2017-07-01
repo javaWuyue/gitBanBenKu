@@ -1,0 +1,48 @@
+package com.ssm.service.impl;
+
+import java.util.List;
+
+import com.ssm.pojo.BaseDict;
+import com.ssm.pojo.Customer;
+import com.ssm.pojo.vo.QueryVo;
+import com.ssm.service.CustomerService;
+
+public class CustomerServiceImpl implements CustomerService{
+
+	@Override
+	public List<BaseDict> findDictByCode(String code) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Customer> findCustomerByVo(QueryVo vo) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer findCustomerByVoCount(QueryVo vo) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Customer findCustomerById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void updateCustomerById(Customer customer) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteCustomerById(Long id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

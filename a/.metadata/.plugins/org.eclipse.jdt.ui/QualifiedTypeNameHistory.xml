@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.ssm.dao.DictMapper"/>
+<fullyQualifiedTypeName name="com.ssm.dao.CustomerMapper"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="com.ssm.service.CustomerService"/>
+<fullyQualifiedTypeName name="com.ssm.pojo.vo.QueryVo"/>
+<fullyQualifiedTypeName name="com.ssm.pojo.BaseDict"/>
+<fullyQualifiedTypeName name="com.ssm.pojo.Customer"/>
+<fullyQualifiedTypeName name="com.alibaba.dubbo.container.page.Page"/>
+<fullyQualifiedTypeName name="cn.itcast.utils.Page"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+</qualifiedTypeNameHistroy>
