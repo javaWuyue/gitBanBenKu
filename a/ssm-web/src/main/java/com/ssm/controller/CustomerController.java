@@ -38,7 +38,7 @@ public class CustomerController {
 		List<BaseDict> industryList = customerService.findDictByCode(industry);
 		//客户级别
 		List<BaseDict> levelList = customerService.findDictByCode(level);
-		
+		System.out.println("aaa");
 		//转码
 		if(vo.getCustName() != null){
 			vo.setCustName(new String(vo.getCustName().getBytes("iso8859-1") , "utf-8"));
