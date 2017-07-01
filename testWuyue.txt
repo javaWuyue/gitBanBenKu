@@ -7,4 +7,5 @@ tian jia ce shi rizhi de han yi
 吴跃
 好好
 tui推送到远端有没有成功哦 
-啊切换到dev分支上做的修改  
+切换到dev分支上做的修改  
+测试是否解决冲突
