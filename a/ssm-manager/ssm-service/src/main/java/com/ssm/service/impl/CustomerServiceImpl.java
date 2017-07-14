@@ -54,5 +54,9 @@ public class CustomerServiceImpl implements CustomerService{
 		customerMapper.delCustomerById(id);
 		
 	}
-
+	
+	public void addGit(){
+		System.out.println();
+		
+	}
 }
